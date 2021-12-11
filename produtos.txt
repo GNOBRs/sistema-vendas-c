@@ -1,0 +1,15 @@
+Carne 6kg | R$ 129,50
+Leite 7,5 | R$ 25,00
+Feijao 4,5kg | R$ 15,73
+Arroz 3kg | R$ 10,00
+Farinha 1,5kg | R$ 5,49
+Batata 5kg | R$ 19,59
+Tomate 8kg | R$ 59,70
+Pao 6kg | R$ 64,17
+Cafe 600g | R$ 10,67
+Banana 6dz | R$ 38,50
+Acucar 3kg | R$ 6,39
+Oleo 900ml | R$4.19
+Manteiga 750g | R$23.78
+Queijo 1kg | R$22.90
+Presunto 1kg | R$17.90
